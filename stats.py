@@ -15,6 +15,7 @@ def get_chars_dict(text):
 def sort_on(d):
     return d["num"]
 
+
 def chars_dict_to_sorted_list(num_chars_dict):
     sorted_list = []
     for ch in num_chars_dict:
